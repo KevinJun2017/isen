@@ -7,7 +7,7 @@ package com.isen.jun;
 */
 public class SecondCI {
 	public static void main(String[] args) {
-		System.out.println("Second Isen jun Git!");
+		System.out.println("Second Isen jun Gidddt!");
 	}
 }
  

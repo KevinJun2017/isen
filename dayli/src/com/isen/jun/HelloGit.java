@@ -7,7 +7,7 @@ package com.isen.jun;
 */
 public class HelloGit {
 	public static void main(String[] args) {
-		System.out.println("Hello Git! Init!");
+		System.out.println("Hello Git! IIiiiinit!");
 	}
 }
  
